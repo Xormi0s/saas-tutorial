@@ -1,5 +1,8 @@
 venv/
 .DS_Store
+#remove if using prod cdn with docker container!
+#src\staticfiles\vendors
+local-cdn
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
