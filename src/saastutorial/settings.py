@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Custom apps
     'visits',
+    'profiles',
     #3RD party apps
     "allauth_ui",
     "allauth",
